@@ -7,5 +7,17 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: cc4e79d78060aa948a464f81df4bc13a
+  - enabled: 1
+    path: Assets/Scenes/Fase1.unity
+    guid: b5162fcbbbb13444fa0c35eade642080
+  - enabled: 1
+    path: Assets/Scenes/Fase2.unity
+    guid: b334c42cbde003b4ebc3c3d9f31f2747
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 6baad3ed7697db14eb5e3b96d6b09174
   m_configObjects: {}
